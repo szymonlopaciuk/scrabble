@@ -1,3 +1,7 @@
+Forked from https://github.com/olumidesan/scrabble and modified to use the Polish version of Scrabble.
+
+Scrabble z polskim słownikiem i literami.
+
 ## Scrabble
 A strictly multi-player Scrabble game that allows gameplay between people on a network
 
