@@ -6,3 +6,4 @@ services:
       - "5005:5005"
     volumes:
       - .:/code
+    command: python3 wsgi.py
